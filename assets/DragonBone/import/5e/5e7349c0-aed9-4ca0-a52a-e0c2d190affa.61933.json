@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5fRwlTmA1EQrRsUT5m25R4"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "jinzhan2_tex",
+      "rect": [
+        1,
+        1,
+        137,
+        254
+      ],
+      "offset": [
+        -58.5,
+        0
+      ],
+      "originalSize": [
+        256,
+        256
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

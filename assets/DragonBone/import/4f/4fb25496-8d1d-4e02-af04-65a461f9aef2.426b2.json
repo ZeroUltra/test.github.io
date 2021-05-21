@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "59wNpseGBMdIfl8LhHh1AB"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "yuancheng2_tex",
+      "rect": [
+        1,
+        1,
+        254,
+        125
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        256,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

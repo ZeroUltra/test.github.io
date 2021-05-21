@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b9cT4kiY1P1qGqQvak7CJq"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "wukong_tex",
+      "rect": [
+        1,
+        1,
+        253,
+        126
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        256,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

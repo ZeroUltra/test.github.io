@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "898lUcG3tMva2LD6B5lbb/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bailongma_tex",
+      "rect": [
+        1,
+        1,
+        252,
+        126
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        256,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

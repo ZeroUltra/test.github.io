@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "dragonBones.DragonBonesAsset",
+      [
+        "_name",
+        "_dragonBonesJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ef_shuilongxi_b_ske",
+      "{\"frameRate\":25,\"name\":\"ef_shuilongxi_b\",\"version\":\"5.5\",\"compatibleVersion\":\"5.5\",\"armature\":[{\"type\":\"Armature\",\"frameRate\":25,\"name\":\"ef_shuilongxi_b\",\"aabb\":{\"x\":-54.7,\"y\":-18.3,\"width\":104,\"height\":76},\"bone\":[{\"name\":\"root\"},{\"inheritScale\":false,\"name\":\"图层 2\",\"parent\":\"root\",\"transform\":{\"x\":-4.1,\"y\":17.6}},{\"inheritScale\":false,\"name\":\"图层 5\",\"parent\":\"root\",\"transform\":{\"x\":-4.1,\"y\":17.6}}],\"slot\":[{\"name\":\"图层 5\",\"parent\":\"图层 5\"},{\"name\":\"图层 2\",\"parent\":\"图层 2\"}],\"skin\":[{\"slot\":[{\"name\":\"图层 5\",\"display\":[{\"name\":\"元件 105\",\"transform\":{\"x\":1.4,\"y\":2.1}}]},{\"name\":\"图层 2\",\"display\":[{\"name\":\"元件 105\",\"transform\":{\"x\":1.4,\"y\":2.1}}]}]}],\"animation\":[{\"duration\":52,\"fadeInTime\":0.3,\"name\":\"start\",\"bone\":[{\"name\":\"图层 5\",\"scaleFrame\":[{\"duration\":7,\"tweenEasing\":0},{\"duration\":10,\"tweenEasing\":0},{\"duration\":35,\"tweenEasing\":0,\"x\":2.04,\"y\":2.04},{\"duration\":0,\"x\":3.98,\"y\":3.98}]},{\"name\":\"图层 2\",\"scaleFrame\":[{\"tweenEasing\":0},{\"duration\":6,\"tweenEasing\":0},{\"duration\":25,\"tweenEasing\":0,\"x\":2.71,\"y\":2.71},{\"duration\":20,\"x\":3.98,\"y\":3.98}]}],\"slot\":[{\"name\":\"图层 5\",\"colorFrame\":[{\"duration\":7,\"tweenEasing\":0,\"value\":{\"aM\":0}},{\"duration\":10,\"tweenEasing\":0,\"value\":{\"aM\":10}},{\"duration\":35,\"tweenEasing\":0,\"value\":{\"aM\":8}},{\"duration\":0,\"value\":{\"aM\":0}}]},{\"name\":\"图层 2\",\"colorFrame\":[{\"tweenEasing\":0},{\"duration\":6,\"tweenEasing\":0},{\"duration\":25,\"tweenEasing\":0,\"value\":{\"aM\":20}},{\"duration\":20,\"value\":{\"aM\":0}}]}]}],\"defaultActions\":[{\"gotoAndPlay\":\"start\"}]}]}"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

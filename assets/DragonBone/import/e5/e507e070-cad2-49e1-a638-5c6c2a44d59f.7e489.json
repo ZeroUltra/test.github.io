@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "59wNpseGBMdIfl8LhHh1AB"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "yuancheng2_tex",
+      "{\"width\":256,\"imagePath\":\"yuancheng2_tex.png\",\"height\":128,\"name\":\"yuancheng2\",\"SubTexture\":[{\"width\":32,\"y\":50,\"height\":32,\"name\":\"shanke.cn_1_97_62814\",\"x\":134},{\"width\":23,\"y\":72,\"height\":20,\"name\":\"元件 167\",\"x\":228},{\"width\":59,\"y\":1,\"height\":29,\"name\":\"元件 162\",\"x\":196},{\"frameHeight\":24,\"y\":62,\"frameX\":0,\"width\":24,\"frameY\":0,\"height\":23,\"name\":\"元件 164\",\"frameWidth\":24,\"x\":196},{\"width\":68,\"y\":74,\"height\":43,\"name\":\"元件 161\",\"x\":1},{\"width\":29,\"y\":84,\"height\":33,\"name\":\"补间 36\",\"x\":134},{\"width\":15,\"y\":94,\"height\":15,\"name\":\"元件 165\",\"x\":240},{\"width\":71,\"y\":1,\"height\":71,\"name\":\"元件 150\",\"x\":1},{\"frameHeight\":24,\"y\":87,\"frameX\":0,\"width\":24,\"frameY\":0,\"height\":23,\"name\":\"元件 163\",\"frameWidth\":24,\"x\":202},{\"width\":14,\"y\":119,\"height\":7,\"name\":\"元件 166\",\"x\":134},{\"width\":61,\"y\":74,\"height\":48,\"name\":\"元件 157\",\"x\":71},{\"width\":35,\"y\":100,\"height\":21,\"name\":\"元件 150 副本\",\"x\":165},{\"width\":44,\"y\":1,\"height\":56,\"name\":\"元件 172\",\"x\":74},{\"width\":28,\"y\":32,\"height\":28,\"name\":\"补间 34\",\"x\":196},{\"width\":15,\"y\":111,\"height\":15,\"name\":\"元件 146\",\"x\":240},{\"width\":2,\"y\":32,\"height\":27,\"name\":\"元件 4\",\"x\":253},{\"width\":12,\"y\":112,\"height\":12,\"name\":\"元件 159\",\"x\":202},{\"width\":49,\"y\":1,\"height\":47,\"name\":\"元件 154\",\"x\":120},{\"width\":38,\"y\":59,\"height\":12,\"name\":\"元件 6\",\"x\":74},{\"width\":12,\"y\":32,\"height\":38,\"name\":\"元件 5\",\"x\":226},{\"width\":12,\"y\":112,\"height\":12,\"name\":\"元件 160\",\"x\":216},{\"width\":23,\"y\":1,\"height\":97,\"name\":\"元件 7\",\"x\":171},{\"width\":1,\"y\":87,\"height\":1,\"name\":\"hero_ani_11215_62\",\"x\":196},{\"width\":14,\"y\":59,\"height\":13,\"name\":\"sdhhKKKKK\",\"x\":114}]}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

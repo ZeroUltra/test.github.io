@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "d3RavIgLdKQ56Gbfhbf3Ax"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ef_dazhaobo_blue_tex",
+      "{\"width\":256,\"imagePath\":\"ef_dazhaobo_blue_tex.png\",\"height\":256,\"name\":\"ef_dazhaobo_blue\",\"SubTexture\":[{\"frameHeight\":85,\"y\":92,\"frameX\":-3,\"width\":73,\"frameY\":-3,\"height\":74,\"name\":\"元件 71h\",\"frameWidth\":82,\"x\":92},{\"frameHeight\":53,\"y\":168,\"frameX\":-5,\"width\":74,\"frameY\":-4,\"height\":41,\"name\":\"元件 72h\",\"frameWidth\":86,\"x\":92},{\"frameHeight\":121,\"y\":1,\"frameX\":-4,\"width\":180,\"frameY\":-1,\"height\":89,\"name\":\"元件 57t\",\"frameWidth\":193,\"x\":1},{\"frameHeight\":29,\"y\":183,\"frameX\":-1,\"width\":19,\"frameY\":-1,\"height\":24,\"name\":\"元件 63u\",\"frameWidth\":25,\"x\":41},{\"frameHeight\":94,\"y\":92,\"frameX\":-1,\"width\":89,\"frameY\":-1,\"height\":89,\"name\":\"元件 1\",\"frameWidth\":94,\"x\":1},{\"frameHeight\":47,\"y\":183,\"frameX\":-3,\"width\":38,\"frameY\":-2,\"height\":39,\"name\":\"元件 10 副本 2t\",\"frameWidth\":46,\"x\":1}]}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

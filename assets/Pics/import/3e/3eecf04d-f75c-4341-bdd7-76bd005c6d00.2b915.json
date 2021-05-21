@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "1aL2xdG+JBnK0zBgR/syGz"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "yingxiongshengji",
+      "rect": [
+        1,
+        5,
+        574,
+        146
+      ],
+      "offset": [
+        0.5,
+        -2
+      ],
+      "originalSize": [
+        575,
+        152
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

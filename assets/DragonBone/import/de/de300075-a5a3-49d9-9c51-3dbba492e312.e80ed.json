@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "8fdHzZ4zxP+r3J65LXxR/f"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ef_jinjiao_huangjinsheng_tex",
+      "{\"width\":256,\"SubTexture\":[{\"frameWidth\":176,\"y\":1,\"frameHeight\":59,\"width\":167,\"frameX\":-3,\"height\":48,\"name\":\"元件 60\",\"frameY\":-4,\"x\":1},{\"frameWidth\":14,\"y\":101,\"frameHeight\":12,\"width\":13,\"frameX\":0,\"height\":12,\"name\":\"元件 61\",\"frameY\":0,\"x\":1},{\"frameWidth\":176,\"y\":51,\"frameHeight\":59,\"width\":167,\"frameX\":-3,\"height\":48,\"name\":\"元件 1\",\"frameY\":-4,\"x\":1},{\"width\":5,\"y\":101,\"height\":16,\"name\":\"元件 31\",\"x\":16}],\"height\":128,\"name\":\"ef_jinjiao_huangjinsheng\",\"imagePath\":\"ef_jinjiao_huangjinsheng_tex.png\"}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

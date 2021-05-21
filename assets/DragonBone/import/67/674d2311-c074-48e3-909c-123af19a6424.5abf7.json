@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "5fRwlTmA1EQrRsUT5m25R4"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "jinzhan2_tex",
+      "{\"width\":256,\"SubTexture\":[{\"width\":32,\"y\":200,\"height\":32,\"name\":\"shanke.cn_1_97_62814\",\"x\":1},{\"width\":42,\"y\":234,\"height\":20,\"name\":\"cn_1_10_85134\",\"x\":1},{\"width\":39,\"y\":66,\"height\":64,\"name\":\"cn_1_30_8059\",\"x\":79},{\"width\":63,\"y\":131,\"height\":30,\"name\":\"cn_1_7_11360\",\"x\":1},{\"frameWidth\":26,\"y\":163,\"frameHeight\":43,\"width\":26,\"frameX\":0,\"height\":42,\"name\":\"cn_1_8_3501\",\"frameY\":0,\"x\":38},{\"frameWidth\":34,\"y\":71,\"frameHeight\":58,\"width\":33,\"frameX\":0,\"height\":58,\"name\":\"cn_1_9_89473\",\"frameY\":0,\"x\":1},{\"width\":76,\"y\":1,\"height\":68,\"name\":\"cn_1_11_79118\",\"x\":1},{\"width\":16,\"y\":216,\"height\":18,\"name\":\"cn_1_12_27106\",\"x\":121},{\"width\":22,\"y\":194,\"height\":20,\"name\":\"cn_1_13_44083\",\"x\":114},{\"width\":4,\"y\":120,\"height\":7,\"name\":\"cn_1_14_86490\",\"x\":43},{\"width\":5,\"y\":120,\"height\":8,\"name\":\"cn_1_15_36645\",\"x\":36},{\"width\":35,\"y\":163,\"height\":35,\"name\":\"cn_1_16_19253\",\"x\":1},{\"width\":24,\"y\":232,\"height\":21,\"name\":\"cn_1_17_68859\",\"x\":72},{\"width\":8,\"y\":242,\"height\":11,\"name\":\"cn_1_18_15218\",\"x\":61},{\"frameWidth\":8,\"y\":207,\"frameHeight\":24,\"width\":8,\"frameX\":0,\"height\":23,\"name\":\"cn_1_19_79304\",\"frameY\":0,\"x\":35},{\"frameWidth\":20,\"y\":199,\"frameHeight\":31,\"width\":19,\"frameX\":0,\"height\":31,\"name\":\"cn_1_20_9737\",\"frameY\":0,\"x\":72},{\"frameWidth\":17,\"y\":156,\"frameHeight\":19,\"width\":17,\"frameX\":0,\"height\":18,\"name\":\"cn_1_21_69961\",\"frameY\":0,\"x\":116},{\"width\":17,\"y\":236,\"height\":14,\"name\":\"cn_1_22_76692\",\"x\":121},{\"width\":43,\"y\":132,\"height\":34,\"name\":\"cn_1_23_65518\",\"x\":66},{\"width\":8,\"y\":244,\"height\":7,\"name\":\"cn_1_24_80253\",\"x\":98},{\"width\":19,\"y\":194,\"height\":25,\"name\":\"cn_1_26_61066\",\"x\":93},{\"width\":21,\"y\":221,\"height\":21,\"name\":\"cn_1_27_79267\",\"x\":98},{\"width\":8,\"y\":244,\"height\":7,\"name\":\"cn_1_28_76019\",\"x\":108},{\"frameWidth\":26,\"y\":207,\"frameHeight\":34,\"width\":25,\"frameX\":0,\"height\":33,\"name\":\"cn_1_29_21905\",\"frameY\":0,\"x\":45},{\"width\":17,\"y\":176,\"height\":16,\"name\":\"cn_1_25_13148\",\"x\":116},{\"frameWidth\":23,\"y\":132,\"frameHeight\":23,\"width\":22,\"frameX\":0,\"height\":22,\"name\":\"sdfggg\",\"frameY\":0,\"x\":111},{\"width\":43,\"y\":1,\"height\":63,\"name\":\"元件 2\",\"x\":79},{\"width\":21,\"y\":168,\"height\":24,\"name\":\"cn_1_2_71024\",\"x\":93},{\"width\":25,\"y\":168,\"height\":29,\"name\":\"cn_1_1_41388\",\"x\":66},{\"width\":27,\"y\":71,\"height\":47,\"name\":\"cn_1_3_71675\",\"x\":36},{\"width\":1,\"y\":200,\"height\":1,\"name\":\"hero_ani_11215_62\",\"x\":35},{\"width\":14,\"y\":242,\"height\":13,\"name\":\"sdhh\",\"x\":45}],\"height\":256,\"name\":\"jinzhan2\",\"imagePath\":\"jinzhan2_tex.png\"}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

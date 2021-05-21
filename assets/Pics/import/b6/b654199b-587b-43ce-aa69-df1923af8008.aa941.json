@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "55FPAqjb5MJL+AcbeDPjWF"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "baoxiangzi",
+      "rect": [
+        2,
+        0,
+        108,
+        52
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        112,
+        54
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

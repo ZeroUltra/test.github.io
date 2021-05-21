@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "c1cMDaExZKootIx9c+dO03"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "duizhanzi",
+      "rect": [
+        2,
+        2,
+        144,
+        66
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        148,
+        69
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

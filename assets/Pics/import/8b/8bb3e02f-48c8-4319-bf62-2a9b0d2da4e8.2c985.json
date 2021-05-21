@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "53jLFTEjtH0prL+sZF5U5X"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "anniu_press",
+      "rect": [
+        3,
+        5,
+        107,
+        111
+      ],
+      "offset": [
+        -0.5,
+        -1.5
+      ],
+      "originalSize": [
+        114,
+        118
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "49vaykBzdAf7KqH0GxmG8m"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ef_daoguang2_tex",
+      "{\"width\":256,\"SubTexture\":[{\"frameWidth\":147,\"y\":476,\"frameHeight\":39,\"width\":141,\"frameX\":-2,\"height\":35,\"name\":\"元件 183\",\"frameY\":-2,\"x\":1},{\"frameWidth\":74,\"y\":313,\"frameHeight\":172,\"width\":70,\"frameX\":-1,\"height\":161,\"name\":\"元件 207\",\"frameY\":-7,\"x\":1},{\"frameWidth\":247,\"y\":1,\"frameHeight\":137,\"width\":234,\"frameX\":-3,\"height\":124,\"name\":\"元件 208\",\"frameY\":-8,\"x\":1},{\"frameWidth\":227,\"y\":127,\"frameHeight\":121,\"width\":225,\"frameX\":0,\"height\":112,\"name\":\"元件 209\",\"frameY\":-7,\"x\":1},{\"frameWidth\":220,\"y\":241,\"frameHeight\":73,\"width\":211,\"frameX\":-4,\"height\":70,\"name\":\"元件 211\",\"frameY\":-2,\"x\":1},{\"frameWidth\":174,\"y\":313,\"frameHeight\":64,\"width\":163,\"frameX\":-2,\"height\":56,\"name\":\"元件 210\",\"frameY\":-3,\"x\":73},{\"width\":12,\"y\":241,\"height\":12,\"name\":\"元件 184 复制\",\"x\":214}],\"height\":512,\"name\":\"ef_daoguang2\",\"imagePath\":\"ef_daoguang2_tex.png\"}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

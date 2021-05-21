@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "34vlNcmkZBi7tiNCXDoPTp"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "zhubajie_tex",
+      "{\"width\":256,\"imagePath\":\"zhubajie_tex.png\",\"height\":256,\"name\":\"zhubajie\",\"SubTexture\":[{\"width\":32,\"y\":44,\"height\":32,\"name\":\"shanke.cn_1_1_24194\",\"x\":78},{\"width\":6,\"y\":78,\"height\":99,\"name\":\"元件 126\",\"x\":97},{\"width\":34,\"y\":29,\"height\":40,\"name\":\"元件 135\",\"x\":131},{\"width\":33,\"y\":1,\"height\":42,\"name\":\"元件 134\",\"x\":194},{\"width\":35,\"y\":45,\"height\":21,\"name\":\"元件 141\",\"x\":199},{\"width\":75,\"y\":1,\"height\":74,\"name\":\"元件 133\",\"x\":1},{\"frameHeight\":31,\"y\":45,\"frameX\":0,\"width\":30,\"frameY\":0,\"height\":30,\"name\":\"元件 131\",\"frameWidth\":31,\"x\":167},{\"width\":27,\"y\":78,\"height\":28,\"name\":\"元件 132\",\"x\":68},{\"width\":5,\"y\":59,\"height\":8,\"name\":\"元件 130\",\"x\":112},{\"width\":31,\"y\":77,\"height\":31,\"name\":\"元件 68\",\"x\":1},{\"width\":61,\"y\":1,\"height\":26,\"name\":\"元件 69\",\"x\":131},{\"frameHeight\":17,\"y\":108,\"frameX\":0,\"width\":39,\"frameY\":0,\"height\":17,\"name\":\"重复项目文件夹/补间 4\",\"frameWidth\":40,\"x\":34},{\"width\":32,\"y\":77,\"height\":29,\"name\":\"元件 151\",\"x\":34},{\"width\":28,\"y\":71,\"height\":27,\"name\":\"元件 152\",\"x\":112},{\"width\":8,\"y\":29,\"height\":7,\"name\":\"元件 128\",\"x\":183},{\"width\":27,\"y\":110,\"height\":22,\"name\":\"元件 129\",\"x\":1},{\"width\":51,\"y\":1,\"height\":41,\"name\":\"元件 138\",\"x\":78},{\"frameHeight\":21,\"y\":1,\"frameX\":0,\"width\":18,\"frameY\":0,\"height\":21,\"name\":\"元件 136\",\"frameWidth\":19,\"x\":229},{\"width\":18,\"y\":24,\"height\":15,\"name\":\"元件 137\",\"x\":229},{\"width\":13,\"y\":108,\"height\":13,\"name\":\"元件 139\",\"x\":75},{\"width\":14,\"y\":29,\"height\":14,\"name\":\"元件 140\",\"x\":167},{\"width\":33,\"y\":127,\"height\":17,\"name\":\"元件 127\",\"x\":30},{\"width\":26,\"y\":134,\"height\":10,\"name\":\"元件 66\",\"x\":1},{\"width\":5,\"y\":38,\"height\":5,\"name\":\"重复项目文件夹/shanke.cn_1_23_20860 复制\",\"x\":183},{\"width\":14,\"y\":44,\"height\":13,\"name\":\"sdhh\",\"x\":112}]}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

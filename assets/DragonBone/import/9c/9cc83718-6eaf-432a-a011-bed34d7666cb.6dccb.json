@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "27IZwurqhEvZ4/qIsYZYCN"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ef_zhua_tex",
+      "rect": [
+        1,
+        1,
+        75,
+        105
+      ],
+      "offset": [
+        -25.5,
+        10.5
+      ],
+      "originalSize": [
+        128,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

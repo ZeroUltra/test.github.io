@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "bcKBQga5hKeaqz+ALKOyM0"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "木宝箱",
+      "rect": [
+        36,
+        71,
+        438,
+        370
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        512,
+        512
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

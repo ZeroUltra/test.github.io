@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2cmLlDfq5CQoCoOrU222zt"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ef_roudan_tex",
+      "rect": [
+        1,
+        1,
+        509,
+        237
+      ],
+      "offset": [
+        -0.5,
+        8.5
+      ],
+      "originalSize": [
+        512,
+        256
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

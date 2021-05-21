@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "3cEiLWOGhLAqXfXV5woP0G"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "yuandian",
+      "rect": [
+        1,
+        0,
+        31,
+        35
+      ],
+      "offset": [
+        0.5,
+        0.5
+      ],
+      "originalSize": [
+        32,
+        36
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

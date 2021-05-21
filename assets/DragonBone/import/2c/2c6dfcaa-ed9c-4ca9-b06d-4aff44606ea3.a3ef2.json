@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a58FrzlYFMN7G9v1GU8IVV"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ef_huojianqiang_tex",
+      "rect": [
+        1,
+        1,
+        392,
+        84
+      ],
+      "offset": [
+        -59,
+        21
+      ],
+      "originalSize": [
+        512,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

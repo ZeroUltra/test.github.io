@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "a6qpr56K9FSr53KPLQmuI5"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ef_jizhonggguang_tex",
+      "{\"width\":64,\"SubTexture\":[{\"frameWidth\":50,\"y\":1,\"frameHeight\":24,\"width\":42,\"frameX\":-2,\"height\":19,\"name\":\"元件 197\",\"frameY\":-1,\"x\":1}],\"height\":32,\"name\":\"ef_jizhonggguang\",\"imagePath\":\"ef_jizhonggguang_tex.png\"}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

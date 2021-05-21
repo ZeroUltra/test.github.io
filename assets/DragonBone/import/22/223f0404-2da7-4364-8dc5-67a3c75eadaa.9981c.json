@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "34vlNcmkZBi7tiNCXDoPTp"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "zhubajie_tex",
+      "rect": [
+        1,
+        1,
+        246,
+        176
+      ],
+      "offset": [
+        -4,
+        39
+      ],
+      "originalSize": [
+        256,
+        256
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

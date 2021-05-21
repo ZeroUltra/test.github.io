@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "dblg0tO4lPeK/GQd2bGPmG"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "guanbianniu2",
+      "rect": [
+        2,
+        0,
+        78,
+        82
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        82,
+        84
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

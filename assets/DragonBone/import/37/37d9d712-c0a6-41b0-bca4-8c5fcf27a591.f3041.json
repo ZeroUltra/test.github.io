@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "898lUcG3tMva2LD6B5lbb/"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "bailongma_tex",
+      "{\"width\":256,\"imagePath\":\"bailongma_tex.png\",\"height\":128,\"name\":\"bailongma\",\"SubTexture\":[{\"width\":32,\"y\":85,\"height\":32,\"name\":\"shanke.cn_1_52_47381\",\"x\":46},{\"width\":19,\"y\":102,\"height\":19,\"name\":\"元件 16\",\"x\":224},{\"frameHeight\":98,\"y\":1,\"frameX\":0,\"width\":21,\"frameY\":0,\"height\":97,\"name\":\"元件 1\",\"frameWidth\":21,\"x\":83},{\"width\":8,\"y\":78,\"height\":11,\"name\":\"元件 19\",\"x\":245},{\"width\":13,\"y\":41,\"height\":22,\"name\":\"元件 14\",\"x\":155},{\"width\":17,\"y\":1,\"height\":19,\"name\":\"元件 18\",\"x\":140},{\"width\":18,\"y\":55,\"height\":10,\"name\":\"元件 22\",\"x\":135},{\"width\":27,\"y\":33,\"height\":33,\"name\":\"元件 23\",\"x\":106},{\"frameHeight\":82,\"y\":1,\"frameX\":0,\"width\":80,\"frameY\":0,\"height\":82,\"name\":\"元件 12\",\"frameWidth\":81,\"x\":1},{\"width\":43,\"y\":85,\"height\":27,\"name\":\"元件 11\",\"x\":1},{\"width\":21,\"y\":114,\"height\":12,\"name\":\"元件 21\",\"x\":1},{\"width\":27,\"y\":100,\"height\":27,\"name\":\"元件 7\",\"x\":123},{\"width\":17,\"y\":22,\"height\":17,\"name\":\"元件 6\",\"x\":155},{\"width\":20,\"y\":53,\"height\":23,\"name\":\"元件 8\",\"x\":224},{\"frameHeight\":17,\"y\":68,\"frameX\":0,\"width\":34,\"frameY\":0,\"height\":16,\"name\":\"元件 10\",\"frameWidth\":34,\"x\":106},{\"width\":35,\"y\":100,\"height\":19,\"name\":\"元件 27\",\"x\":152},{\"width\":33,\"y\":100,\"height\":17,\"name\":\"元件 30\",\"x\":189},{\"width\":41,\"y\":100,\"height\":20,\"name\":\"元件 29\",\"x\":80},{\"frameHeight\":26,\"y\":26,\"frameX\":0,\"width\":20,\"frameY\":0,\"height\":25,\"name\":\"元件 9\",\"frameWidth\":20,\"x\":224},{\"width\":10,\"y\":22,\"height\":7,\"name\":\"元件 4\",\"x\":140},{\"width\":8,\"y\":119,\"height\":8,\"name\":\"元件 5\",\"x\":189},{\"frameHeight\":24,\"y\":1,\"frameX\":0,\"width\":22,\"frameY\":0,\"height\":23,\"name\":\"元件 13\",\"frameWidth\":22,\"x\":224},{\"width\":32,\"y\":1,\"height\":30,\"name\":\"元件 15\",\"x\":106},{\"width\":19,\"y\":78,\"height\":22,\"name\":\"元件 17\",\"x\":224},{\"width\":18,\"y\":33,\"height\":20,\"name\":\"元件 20\",\"x\":135},{\"width\":18,\"y\":114,\"height\":12,\"name\":\"元件 28\",\"x\":24},{\"width\":14,\"y\":1,\"height\":13,\"name\":\"sdhh\",\"x\":159}]}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

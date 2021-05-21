@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "99Pkwr2nZArL64JmQ25Lmi"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "xiangqingtubiao",
+      "rect": [
+        1,
+        0,
+        43,
+        43
+      ],
+      "offset": [
+        0.5,
+        0.5
+      ],
+      "originalSize": [
+        44,
+        44
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

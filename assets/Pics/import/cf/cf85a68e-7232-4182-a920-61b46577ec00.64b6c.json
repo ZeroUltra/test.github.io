@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "25GFyV8WhEn56T0uqOeXmb"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "kanguanggao",
+      "rect": [
+        0,
+        5,
+        272,
+        87
+      ],
+      "offset": [
+        0,
+        -2.5
+      ],
+      "originalSize": [
+        272,
+        92
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

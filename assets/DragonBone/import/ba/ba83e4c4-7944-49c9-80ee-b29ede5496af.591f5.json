@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "4cmiV9rTRGh5rGJ9dHcZ20"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "strike_ef_tex",
+      "rect": [
+        1,
+        1,
+        200,
+        70
+      ],
+      "offset": [
+        -27,
+        28
+      ],
+      "originalSize": [
+        256,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

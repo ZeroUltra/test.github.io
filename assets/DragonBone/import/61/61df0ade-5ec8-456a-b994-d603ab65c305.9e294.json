@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d3RavIgLdKQ56Gbfhbf3Ax"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ef_dazhaobo_blue_tex",
+      "rect": [
+        1,
+        1,
+        180,
+        221
+      ],
+      "offset": [
+        -37,
+        16.5
+      ],
+      "originalSize": [
+        256,
+        256
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

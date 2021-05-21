@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6djMB9GnFJZJcxKD2aWiM2"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "baoxiang",
+      "rect": [
+        1,
+        2,
+        408,
+        390
+      ],
+      "offset": [
+        -12.5,
+        -1
+      ],
+      "originalSize": [
+        435,
+        392
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

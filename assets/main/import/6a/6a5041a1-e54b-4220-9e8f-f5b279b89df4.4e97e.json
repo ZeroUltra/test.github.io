@@ -1,0 +1,64 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.AnimationClip",
+      [
+        "_name",
+        "_duration",
+        "events",
+        "curveData"
+      ],
+      -1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "zhonggao",
+      2,
+      [
+        {
+          "frame": 2,
+          "func": "loadGame",
+          "params": []
+        }
+      ],
+      {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "8cLFc+JZxCopflUbsXhoaW"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "paixu",
+      "rect": [
+        0,
+        5,
+        345,
+        89
+      ],
+      "offset": [
+        0,
+        -2.5
+      ],
+      "originalSize": [
+        345,
+        94
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

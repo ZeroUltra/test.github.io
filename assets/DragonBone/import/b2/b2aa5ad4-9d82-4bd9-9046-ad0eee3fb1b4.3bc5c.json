@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "86ZdHIqhpHxY4Q9foSZW+q"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ef_honghaier_sanweizhenhuo_tex",
+      "{\"width\":64,\"imagePath\":\"ef_honghaier_sanweizhenhuo_tex.png\",\"height\":128,\"name\":\"ef_honghaier_sanweizhenhuo\",\"SubTexture\":[{\"width\":25,\"y\":88,\"height\":22,\"name\":\"元件 12\",\"x\":36},{\"width\":48,\"y\":1,\"height\":43,\"name\":\"元件 43\",\"x\":1},{\"frameX\":-1,\"y\":88,\"frameY\":-1,\"frameWidth\":38,\"width\":33,\"frameHeight\":30,\"height\":26,\"name\":\"元件 46\",\"x\":1},{\"frameX\":0,\"y\":46,\"frameY\":-1,\"frameWidth\":41,\"width\":41,\"frameHeight\":41,\"height\":40,\"name\":\"元件 33\",\"x\":1}]}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

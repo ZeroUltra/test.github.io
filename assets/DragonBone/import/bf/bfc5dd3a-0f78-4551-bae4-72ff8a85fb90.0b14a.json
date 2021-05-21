@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "27IZwurqhEvZ4/qIsYZYCN"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ef_zhua_tex",
+      "{\"width\":128,\"imagePath\":\"ef_zhua_tex.png\",\"height\":128,\"name\":\"ef_zhua\",\"SubTexture\":[{\"frameHeight\":105,\"y\":1,\"frameX\":-1,\"width\":25,\"frameY\":-2,\"height\":99,\"name\":\"元件 17\",\"frameWidth\":26,\"x\":1},{\"frameHeight\":111,\"y\":1,\"frameX\":-1,\"width\":23,\"frameY\":-4,\"height\":105,\"name\":\"元件 16\",\"frameWidth\":24,\"x\":28},{\"frameHeight\":107,\"y\":1,\"frameX\":0,\"width\":23,\"frameY\":-2,\"height\":102,\"name\":\"元件 15\",\"frameWidth\":23,\"x\":53}]}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

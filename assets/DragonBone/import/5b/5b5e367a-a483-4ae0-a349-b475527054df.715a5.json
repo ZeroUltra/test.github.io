@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5eoo+zSAFKd4jTd+PsbsZW"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "dazhao_d_hei_tex",
+      "rect": [
+        1,
+        1,
+        67,
+        67
+      ],
+      "offset": [
+        -29.5,
+        29.5
+      ],
+      "originalSize": [
+        128,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

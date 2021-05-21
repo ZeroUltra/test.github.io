@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "abIct5gppFFJZITMSnamSS"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "dazhao_b_tangseng_tex",
+      "rect": [
+        1,
+        1,
+        988,
+        583
+      ],
+      "offset": [
+        -17,
+        219.5
+      ],
+      "originalSize": [
+        1024,
+        1024
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

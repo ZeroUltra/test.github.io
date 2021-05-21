@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "afF1QWHVNJWIbreAWHNSyg"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "jinzhan3_tex",
+      "{\"width\":256,\"imagePath\":\"jinzhan3_tex.png\",\"height\":128,\"name\":\"jinzhan3\",\"SubTexture\":[{\"width\":32,\"y\":81,\"height\":32,\"name\":\"shanke.cn_1_97_62814 复制\",\"x\":181},{\"frameHeight\":45,\"y\":81,\"frameX\":0,\"width\":32,\"frameY\":0,\"height\":44,\"name\":\"元件 42\",\"frameWidth\":33,\"x\":108},{\"width\":43,\"y\":81,\"height\":36,\"name\":\"元件 5\",\"x\":63},{\"width\":25,\"y\":1,\"height\":28,\"name\":\"元件 48\",\"x\":167},{\"width\":21,\"y\":100,\"height\":21,\"name\":\"元件 45\",\"x\":39},{\"frameHeight\":65,\"y\":1,\"frameX\":0,\"width\":71,\"frameY\":0,\"height\":64,\"name\":\"元件 46\",\"frameWidth\":71,\"x\":1},{\"frameHeight\":14,\"y\":111,\"frameX\":0,\"width\":28,\"frameY\":0,\"height\":14,\"name\":\"元件 49\",\"frameWidth\":29,\"x\":142},{\"frameHeight\":31,\"y\":67,\"frameX\":0,\"width\":60,\"frameY\":0,\"height\":31,\"name\":\"元件 1\",\"frameWidth\":61,\"x\":1},{\"frameHeight\":11,\"y\":115,\"frameX\":0,\"width\":11,\"frameY\":0,\"height\":10,\"name\":\"元件 9\",\"frameWidth\":12,\"x\":172},{\"width\":34,\"y\":29,\"height\":21,\"name\":\"元件 2\",\"x\":131},{\"frameHeight\":20,\"y\":52,\"frameX\":0,\"width\":20,\"frameY\":0,\"height\":20,\"name\":\"元件 33\",\"frameWidth\":21,\"x\":131},{\"width\":18,\"y\":52,\"height\":21,\"name\":\"元件 40\",\"x\":173},{\"width\":13,\"y\":52,\"height\":20,\"name\":\"元件 38\",\"x\":193},{\"width\":14,\"y\":67,\"height\":9,\"name\":\"元件 39\",\"x\":208},{\"width\":3,\"y\":71,\"height\":6,\"name\":\"元件 41\",\"x\":224},{\"width\":10,\"y\":52,\"height\":16,\"name\":\"元件 43\",\"x\":236},{\"width\":10,\"y\":52,\"height\":17,\"name\":\"元件 44\",\"x\":224},{\"width\":4,\"y\":70,\"height\":7,\"name\":\"元件 10\",\"x\":236},{\"frameHeight\":27,\"y\":1,\"frameX\":0,\"width\":29,\"frameY\":0,\"height\":26,\"name\":\"元件 47\",\"frameWidth\":29,\"x\":131},{\"width\":8,\"y\":67,\"height\":11,\"name\":\"元件 50\",\"x\":63},{\"width\":36,\"y\":100,\"height\":22,\"name\":\"元件 8\",\"x\":1},{\"frameHeight\":28,\"y\":81,\"frameX\":0,\"width\":37,\"frameY\":0,\"height\":28,\"name\":\"元件 4\",\"frameWidth\":38,\"x\":142},{\"frameHeight\":79,\"y\":1,\"frameX\":0,\"width\":55,\"frameY\":0,\"height\":78,\"name\":\"元件 6\",\"frameWidth\":55,\"x\":74},{\"frameHeight\":32,\"y\":81,\"frameX\":0,\"width\":30,\"frameY\":0,\"height\":31,\"name\":\"元件 3\",\"frameWidth\":30,\"x\":215},{\"width\":32,\"y\":114,\"height\":13,\"name\":\"元件 7\",\"x\":215},{\"width\":18,\"y\":52,\"height\":22,\"name\":\"元件 37\",\"x\":153},{\"width\":1,\"y\":111,\"height\":1,\"name\":\"hero_ani_11215_62\",\"x\":172},{\"width\":14,\"y\":52,\"height\":13,\"name\":\"sdhhKKK\",\"x\":208}]}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

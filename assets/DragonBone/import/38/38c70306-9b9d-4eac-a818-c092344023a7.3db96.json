@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a6qpr56K9FSr53KPLQmuI5"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ef_jizhonggguang_tex",
+      "rect": [
+        1,
+        1,
+        42,
+        19
+      ],
+      "offset": [
+        -10,
+        5.5
+      ],
+      "originalSize": [
+        64,
+        32
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

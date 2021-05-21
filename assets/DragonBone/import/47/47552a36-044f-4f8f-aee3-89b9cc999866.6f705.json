@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "86ZdHIqhpHxY4Q9foSZW+q"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ef_honghaier_sanweizhenhuo_tex",
+      "rect": [
+        1,
+        1,
+        60,
+        113
+      ],
+      "offset": [
+        -1,
+        6.5
+      ],
+      "originalSize": [
+        64,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
